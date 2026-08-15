@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: yl-messenger
-    env: node
-    startCommand: node server.js
-    plan: free

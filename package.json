@@ -1,0 +1,16 @@
+{
+  "name": "yl-messenger",
+  "version": "3.0.0",
+  "description": "YL Messenger — reliable real-time messaging with Web Push",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "pg": "^8.16.3",
+    "web-push": "^3.6.7"
+  }
+}
